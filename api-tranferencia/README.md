@@ -4,15 +4,14 @@
 
 -   Asegúrate de tener **Redis** instalado y en funcionamiento en tu computadora.
 -   **Composer** debe estar instalado para gestionar dependencias de PHP.
--   **PHP** y un servidor como **Apache** o **Nginx** deben estar instalados para ejecutar Laravel.
 
 ## Pasos para configurar y ejecutar el proyecto:
 
 ### 1. Clonar el repositorio:
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
-cd <NOMBRE_DEL_PROYECTO>
+git clone https://github.com/danthor11/prueba.git
+cd prueba/api-transferencia
 ```
 
 ### 2. Instalar las dependencias del proyecto con Composer:

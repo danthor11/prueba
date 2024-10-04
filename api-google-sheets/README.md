@@ -14,8 +14,8 @@ Este proyecto es una API para gestionar empleados, con la funcionalidad de expor
 1. **Clonar el repositorio:**
 
 ```
-git clone https://github.com/tu-usuario/tu-repositorio.git
-cd tu-repositorio
+git clone https://github.com/danthor11/prueba.git
+cd prueba/api-google-sheets
 ```
 
 2. **Instalar dependencias de Composer:**
